@@ -258,6 +258,7 @@ nav {
     left: 90px;
     transform: translateY(-50%);
     max-width: 550px;
+    z-index: 3;
 }
 
 .project__description--title,
@@ -265,4 +266,5 @@ nav {
 .project__description--para
 .project__description--link {
     text-align: left;
+    color: #fff;
 }
